@@ -37,7 +37,7 @@ Check out some more examples:
 In this lesson, we'll build out just such a relationship using waiters,
 customers, and meals. A customer has many meals, and a customer has many waiters
 _through_ those meals. Similarly, a waiter has many meals and has many customers
-_through_ meals.
+_through_ meals.2
 
 ## Building Out Our Classes
 
